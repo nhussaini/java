@@ -1,0 +1,16 @@
+TestNG -- unit test framework
+TDD --Test Driven Development
+
+Purpose of TestNG? desing test cases in a systematic way
+--it will generate good html reports
+-- gives different annotations
+-- we can define prioritiies like which function to execute first
+-- we can define dependencies
+-- grouping
+--data provider feature
+it is open source, free
+available in the form of JAR files
+-- it is also called java unit testing framework
+
+how to install?
+https://dl.bintray.com/testng-team/testng-eclipse-release/6.14.3/

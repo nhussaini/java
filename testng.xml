@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Yahoo App Test Automation">
+	<test name="Yahoo App Test">
+		
+		<parameter name="browser" value="chrome" />
+		<parameter name="url" value="https://login.yahoo.com/" />
+		<parameter name="emailId" value="test@yahoo.com" />
+		
+		<classes>
+			<class name="com.parameters.ParameterTest"></class>
+		</classes>
+	</test>
+</suite>
